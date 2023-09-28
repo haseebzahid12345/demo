@@ -1,3 +1,3 @@
 # demo
 first repository
-author - haseeb
+author - haseeb zahid
